@@ -1,0 +1,2 @@
+2024-01-21T19:50:26+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 2661376 bytes) en /Applications/MAMP/htdocs/wordpress/wp-includes/class-wpdb.php en la línea 2349
+

@@ -1,0 +1,77 @@
+# Translation of Themes - Bhakti in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Bhakti package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-05-17 11:13:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Bhakti\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Bhakti is a child theme for Lalita WPKoi theme. You can find theme demos at wpkoi.com. Bhakti has a light, colorful style and design for portfolio, business or agency content. The theme is multipurpose, so if You like the style, You can use it to represent Your art, business, an event, show Your portfolio, start a blog, start a webshop and sell Your products etc. The demos use Elementor, WooCommerce and Contact Form 7 plugins. The premium demo uses the Bhakti premium plugin also. Bhakti has an easy to use admin with a lot of customizer functions, so You can build Your dream without coding knowledge. The theme is responsive so looks good on almost every devices. You can setup multiple header styles, navigation styles and layouts. Build You site with Bhakti Theme and share it with the world! You can also find a documentation with an install guide and a tutorial for the screenshot look on wpkoi.com/docs."
+msgstr "Bhakti es un tema hijo del tema Lalita WPKoi. Puedes encontrar demos del tema en wpkoi.com. Bhakti tiene un estilo y diseño ligero y colorido para el contenido de un porfolio, negocio o agencia de contenidos. El tema es multipropósito, así que si te gusta el estilo, puedes usarlo para representar tu arte, negocio, un evento, mostrar tu porfolio, comenzar un blog, comenzar una tienda web y vender tus productos, etc. Las demos utilizan los plugins Elementor, WooCommerce y Contact Form 7. La demo premium utiliza también el plugin premium Bhakti. Bhakti tiene un administrador fácil de usar con un montón de funciones de personalización, por lo que puedes construir tu sueño sin conocimientos de programación. El tema es adaptable por lo que se ve bien en casi todos los dispositivos. Puedes configurar múltiples estilos de cabecera, estilos de navegación y diseños. ¡Construye tu sitio con el Tema Bhakti y compártelo con el mundo! También puedes encontrar una documentación con una guía de instalación y un tutorial para el aspecto de las capturas de pantalla en wpkoi.com/docs."
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Bhakti"
+msgstr "Bhakti"
+
+#: functions.php:247
+msgid "Effect color 3"
+msgstr "Color del efecto 3"
+
+#: functions.php:226
+msgid "Effect color 2"
+msgstr "Color del efecto 2"
+
+#: functions.php:205
+msgid "Effect color"
+msgstr "Color del efecto"
+
+#: functions.php:180
+msgid "Blog image border"
+msgstr "Borde de la imagen del blog"
+
+#: functions.php:155
+msgid "Unique scrollbar"
+msgstr "Barra de desplazamiento única"
+
+#: functions.php:130
+msgid "Top bar socials"
+msgstr "Barra superior con redes sociales "
+
+#: functions.php:108 functions.php:133 functions.php:158 functions.php:183
+msgid "Disable"
+msgstr "Desactivar"
+
+#: functions.php:107 functions.php:132 functions.php:157 functions.php:182
+msgid "Enable"
+msgstr "Activar"
+
+#: functions.php:105
+msgid "Logo negativ margin"
+msgstr "Margen negativo del logotipo"
+
+#: functions.php:86
+msgid "Bhakti Effects"
+msgstr "Efectos de Bhakti"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://wpkoi.com"
+msgstr "https://wpkoi.com"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "wpkoithemes"
+msgstr "wpkoithemes"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://wpkoi.com/bhakti-wpkoi-wordpress-theme/"
+msgstr "https://wpkoi.com/bhakti-wpkoi-wordpress-theme/"
